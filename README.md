@@ -33,7 +33,6 @@ My focus is on securing hybrid environments (on-premises & cloud), strengthening
 
 - 🔹 M365 PowerShell Toolbox
 - 🔹 Sentinel KQL Hunting Queries
-- 🔹 Active Directory Security Hardening Notes
 - 🔹 Homelab Security Documentation (Proxmox, Firewall, Monitoring)
 
 ---
