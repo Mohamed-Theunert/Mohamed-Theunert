@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Mohamed Theunert
 
-## 💼 System Administrator | Microsoft 365 | Entra ID | Active Directory | Security
+## System Administrator | Identity & Cloud Security | Microsoft 365 | Entra ID | Active Directory
 
-I am a System Administrator based in Germany 🇩🇪  
-Specialized in Microsoft 365, Identity & Access Management, and Security Operations.
+I am a Microsoft-focused System Administrator based in Germany 🇩🇪 with a strong passion for Identity Security, Cloud Security, and Blue Team Operations.
+
+My focus is on securing hybrid environments (on-premises & cloud), strengthening authentication mechanisms, and improving organizational security posture through automation, monitoring, and security best practices.
 
 ---
 
@@ -12,18 +13,19 @@ Specialized in Microsoft 365, Identity & Access Management, and Security Operati
 - Microsoft 365 & Entra ID
 - Conditional Access & Identity Protection
 - Active Directory & Group Policy
-- PKI (ADCS)
+- Public Key Infrastructure (ADCS)
 - Microsoft Sentinel & KQL
-- Defender for Endpoint
+- Microsoft Defender for Endpoint
 - PowerShell Automation
-- Hybrid Environments (On-Prem + Cloud)
+- Hybrid Identity & Access Management
 
 ---
 
 ## 📚 Currently Learning
 
-- SC-200 (Security Operations Analyst)
-- SC-300 (Identity & Access Administrator)
+- SC-200 – Microsoft Security Operations Analyst
+- SC-300 – Microsoft Identity & Access Administrator
+- Advanced Active Directory Security Hardening
 
 ---
 
@@ -31,24 +33,26 @@ Specialized in Microsoft 365, Identity & Access Management, and Security Operati
 
 - 🔹 M365 PowerShell Toolbox
 - 🔹 Sentinel KQL Hunting Queries
-- 🔹 Homelab Security Documentation
+- 🔹 Active Directory Security Hardening Notes
+- 🔹 Homelab Security Documentation (Proxmox, Firewall, Monitoring)
 
 ---
 
-## 🚀 Goals
+## 🚀 Professional Goals
 
 Building strong expertise in:
-- Identity Security
-- Cloud Security
-- Blue Team Operations
+
+- Identity & Access Security
+- Cloud Security Architecture
+- Blue Team & Threat Detection
 - Security Engineering
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-theunert-14178720a
-- Email: Mohamed.Theunert@outlook.de
+- LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-theunert-14178720a  
+- Email: Mohamed.Theunert@outlook.de  
 
 ---
 
