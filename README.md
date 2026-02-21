@@ -10,30 +10,30 @@ My focus is on securing hybrid environments (on-premises & cloud), strengthening
 
 ## 🔐 Technical Focus
 
-- Microsoft 365 & Entra ID
-- Conditional Access & Identity Protection
-- Active Directory & Group Policy
-- Public Key Infrastructure (ADCS)
-- Microsoft Sentinel & KQL
-- Microsoft Defender for Endpoint
-- PowerShell Automation
-- Hybrid Identity & Access Management
+- Microsoft 365 & Entra ID  
+- Conditional Access & Identity Protection  
+- Active Directory & Group Policy  
+- Public Key Infrastructure (ADCS)  
+- Microsoft Sentinel & KQL  
+- Microsoft Defender for Endpoint  
+- PowerShell Automation  
+- Hybrid Identity & Access Management  
 
 ---
 
 ## 📚 Currently Learning
 
-- SC-200 – Microsoft Security Operations Analyst
-- SC-300 – Microsoft Identity & Access Administrator
-- Advanced Active Directory Security Hardening
+- SC-200 – Microsoft Security Operations Analyst  
+- SC-300 – Microsoft Identity & Access Administrator  
+- Advanced Active Directory Security Hardening  
 
 ---
 
 ## 🧪 Featured Projects
 
-- 🔹 M365 PowerShell Toolbox
-- 🔹 Sentinel KQL Hunting Queries
-- 🔹 Homelab Security Documentation (Proxmox, Firewall, Monitoring)
+- 🔹 M365 PowerShell Toolbox  
+- 🔹 Sentinel KQL Hunting Queries  
+- 🔹 Homelab Security Documentation (Proxmox, Firewall, Monitoring)  
 
 ---
 
@@ -41,10 +41,18 @@ My focus is on securing hybrid environments (on-premises & cloud), strengthening
 
 Building strong expertise in:
 
-- Identity & Access Security
-- Cloud Security Architecture
-- Blue Team & Threat Detection
-- Security Engineering
+- Identity & Access Security  
+- Cloud Security Architecture  
+- Blue Team & Threat Detection  
+- Security Engineering  
+
+---
+
+## 🎓 Continuous Learning
+
+- Microsoft Learn (Security, Entra ID, Sentinel, Identity Protection)  
+- TryHackMe (SOC Level 1, Windows Privilege Escalation, Blue Team paths)  
+- Personal Hybrid Security Lab  
 
 ---
 
