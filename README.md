@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Theunert
+# 👋🏼 Hi, I'm Mohamed Theunert
 
 ## System Administrator | Identity & Cloud Security | Microsoft 365 | Entra ID | Active Directory
 
