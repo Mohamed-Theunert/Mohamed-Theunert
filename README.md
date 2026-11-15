@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mohamed Theunert
+# 👋🏼 Hi, I'm Mohamed Theunert
 
-## System Administrator | Security Operations | Identity Security | Microsoft Sentinel | Defender XDR
+## System Administrator | Security Operations | Identity Security 
 
 I am a Microsoft-focused System Administrator based in Germany 🇩🇪 with a growing focus on Security Operations, Identity Security, Threat Detection, and Detection Engineering.
 
