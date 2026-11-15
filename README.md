@@ -2,7 +2,7 @@
 
 **System Administrator | Security Operations | Detection Engineering**
 
-System administrator with a growing focus on security operations, identity security, threat detection, and hybrid infrastructure. I work primarily with Microsoft environments while continuously expanding my knowledge across SIEM/SOAR, network security, Linux, logging, and incident investigation.
+Focused on security operations, identity security, threat detection, and hybrid infrastructure, with strong interests in SIEM/SOAR, network security, Linux, virtualization, logging, and incident investigation.
 
 ## Core Areas
 
