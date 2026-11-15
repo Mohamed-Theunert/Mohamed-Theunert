@@ -31,20 +31,17 @@ Microsoft-focused system administrator with a strong focus on hybrid identity, s
 ## Projects
 
 ### Sentinel KQL Hunting
-Practical hunting queries for Microsoft Sentinel and Defender XDR focused on identity threats, privilege escalation, and security investigations.
+Practical hunting and detection queries for SIEM-based security monitoring, identity threats, privilege escalation, and incident investigation.
 
 [View repository](https://github.com/Mohamed-Theunert/sentinel-kql-hunting)
 
-### SC-300 Identity Security Lab
-Hands-on lab work around Microsoft Entra ID, identity protection, access control, and hybrid identity security.
+### Identity Security Lab
+Hands-on lab work focused on identity security, access control, hybrid identity, and authentication monitoring.
 
 [View repository](https://github.com/Mohamed-Theunert/SC-300-Identity-Security-Lab)
 
 ### Active Directory Security Detections
-Lab repository for Active Directory detections using Windows Security Events, Microsoft Sentinel, Defender XDR, and KQL.
-
-_Currently private / in development._
-
+Detection engineering lab for Active Directory security events, authentication monitoring, privileged access, Kerberos, NTLM, and directory changes.
 ## Professional Direction
 
 My goal is to continue developing toward Security Engineering and Security Operations, with a strong specialization in:
