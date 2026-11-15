@@ -2,7 +2,7 @@
 
 **System Administrator | Security Operations | Detection Engineering**
 
-Microsoft-focused system administrator with a strong focus on hybrid identity, security monitoring, threat detection, and Microsoft security technologies.
+System administrator with a growing focus on security operations, identity security, threat detection, and hybrid infrastructure. I work primarily with Microsoft environments while continuously expanding my knowledge across SIEM/SOAR, network security, Linux, logging, and incident investigation.
 
 ## Core Areas
 
@@ -22,12 +22,12 @@ Microsoft-focused system administrator with a strong focus on hybrid identity, s
 ## Current Focus
 
 - Security Monitoring & Detection Engineering
-- SIEM & SOAR
 - Active Directory Security
 - Incident Investigation & Threat Hunting
 - Identity & Access Security
 - Network Security
 - Log Analysis & KQL
+
 ## Projects
 
 ### Sentinel KQL Hunting
@@ -42,6 +42,7 @@ Hands-on lab work focused on identity security, access control, hybrid identity,
 
 ### Active Directory Security Detections
 Detection engineering lab for Active Directory security events, authentication monitoring, privileged access, Kerberos, NTLM, and directory changes.
+
 ## Professional Direction
 
 - Security Engineering
@@ -50,12 +51,7 @@ Detection engineering lab for Active Directory security events, authentication m
 - Threat Hunting
 - Incident Response
 - Identity Security
-## Learning
 
-- Hands-on Security Labs
-- Threat Detection & Hunting
-- Incident Investigation
-- Identity & Network Security
 ## Contact
 
 LinkedIn: [Mohamed Theunert](https://www.linkedin.com/in/mohamed-ibrahim-theunert-14178720a)
