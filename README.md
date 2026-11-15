@@ -21,13 +21,13 @@ Microsoft-focused system administrator with a strong focus on hybrid identity, s
 
 ## Current Focus
 
-- SC-200 – Microsoft Security Operations Analyst
-- Active Directory Security Monitoring
-- Detection Engineering with KQL
-- Microsoft Sentinel Analytics
-- Defender XDR and Defender for Identity
-- Incident Investigation and Threat Hunting
-
+- Security Monitoring & Detection Engineering
+- SIEM & SOAR
+- Active Directory Security
+- Incident Investigation & Threat Hunting
+- Identity & Access Security
+- Network Security
+- Log Analysis & KQL
 ## Projects
 
 ### Sentinel KQL Hunting
