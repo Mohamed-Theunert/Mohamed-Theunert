@@ -44,22 +44,18 @@ Hands-on lab work focused on identity security, access control, hybrid identity,
 Detection engineering lab for Active Directory security events, authentication monitoring, privileged access, Kerberos, NTLM, and directory changes.
 ## Professional Direction
 
-My goal is to continue developing toward Security Engineering and Security Operations, with a strong specialization in:
-
-- Identity Security
-- Active Directory Security
-- Microsoft Security Operations
+- Security Engineering
+- Security Operations
 - Detection Engineering
 - Threat Hunting
 - Incident Response
-
+- Identity Security
 ## Learning
 
-- Microsoft Learn
-- TryHackMe
-- Hands-on security labs
-- Detection and hunting projects
-
+- Hands-on Security Labs
+- Threat Detection & Hunting
+- Incident Investigation
+- Identity & Network Security
 ## Contact
 
 LinkedIn: [Mohamed Theunert](https://www.linkedin.com/in/mohamed-ibrahim-theunert-14178720a)
