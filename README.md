@@ -1,6 +1,6 @@
 # Mohamed Theunert
 
-**System Administrator | Security Operations | Identity Security**
+**System Administrator | Security Operations | Detection Engineering**
 
 Microsoft-focused system administrator with a strong focus on hybrid identity, security monitoring, threat detection, and Microsoft security technologies.
 
