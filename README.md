@@ -1,39 +1,82 @@
-# 👋🏼 Hi, I'm Mohamed Theunert
+# 👋 Hi, I'm Mohamed Theunert
 
-## System Administrator | Identity & Cloud Security | Microsoft 365 | Entra ID | Active Directory
+## System Administrator | Security Operations | Identity Security | Microsoft Sentinel | Defender XDR
 
-I am a Microsoft-focused System Administrator based in Germany 🇩🇪 with a strong passion for Identity Security, Cloud Security, and Blue Team Operations.
+I am a Microsoft-focused System Administrator based in Germany 🇩🇪 with a growing focus on Security Operations, Identity Security, Threat Detection, and Detection Engineering.
 
-My focus is on securing hybrid environments (on-premises & cloud), strengthening authentication mechanisms, and improving organizational security posture through automation, monitoring, and security best practices.
+My work and learning focus on securing hybrid environments across on-premises Active Directory and Microsoft cloud services, improving visibility through logging and monitoring, investigating suspicious activity, and strengthening security posture with practical blue-team techniques.
 
 ---
 
 ## 🔐 Technical Focus
 
-- Microsoft 365 & Entra ID  
-- Conditional Access & Identity Protection  
-- Active Directory & Group Policy  
-- Public Key Infrastructure (ADCS)  
-- Microsoft Sentinel & KQL  
-- Microsoft Defender for Endpoint  
-- PowerShell Automation  
-- Hybrid Identity & Access Management  
+- Active Directory & Group Policy
+- Microsoft 365 & Entra ID
+- Conditional Access & Identity Protection
+- Public Key Infrastructure (AD CS)
+- Microsoft Sentinel & KQL
+- Microsoft Defender XDR
+- Microsoft Defender for Endpoint
+- Microsoft Defender for Identity
+- Active Directory Security Monitoring
+- Threat Hunting & Incident Investigation
+- Detection Engineering
+- PowerShell Automation
+- Hybrid Identity & Access Management
+
+---
+
+## 🛡 Security Operations Focus
+
+I am especially interested in:
+
+- Active Directory attack detection
+- Authentication monitoring
+- Kerberos & NTLM security
+- Privileged account monitoring
+- Identity-based attack paths
+- SIEM analytics and correlation
+- Custom detection rules
+- Threat hunting with KQL
+- Incident triage and investigation
+- MITRE ATT&CK mapping
 
 ---
 
 ## 📚 Currently Learning
 
-- SC-200 – Microsoft Security Operations Analyst  
-- SC-300 – Microsoft Identity & Access Administrator  
-- Advanced Active Directory Security Hardening  
+- SC-200 – Microsoft Security Operations Analyst
+- Microsoft Sentinel detection engineering
+- Microsoft Defender XDR & Defender for Identity
+- Advanced Active Directory monitoring and hardening
+- KQL for threat hunting and incident investigation
+- SC-300 – Microsoft Identity & Access Administrator
 
 ---
 
 ## 🧪 Featured Projects
 
-- 🔹 M365 PowerShell Toolbox  
-- 🔹 Sentinel KQL Hunting Queries  
-- 🔹 Homelab Security Documentation (Proxmox, Firewall, Monitoring)  
+- 🔹 [Sentinel KQL Hunting Queries](https://github.com/Mohamed-Theunert/sentinel-kql-hunting)
+- 🔹 [SC-300 Identity Security Lab](https://github.com/Mohamed-Theunert/SC-300-Identity-Security-Lab)
+- 🔹 Active Directory Security Detection Lab
+- 🔹 Hybrid Security Homelab – Proxmox, Firewall, Windows Server & Monitoring
+
+---
+
+## 🧠 Detection Engineering
+
+My current lab work focuses on building and testing detections for Active Directory events such as:
+
+- User account creation and lifecycle events
+- Privileged group membership changes
+- RDP access to domain controllers
+- Sensitive directory object modifications
+- GPO-related changes
+- Kerberos authentication anomalies
+- NTLM usage
+- Defender for Identity hunting
+
+The goal is to turn raw security events into practical detections, investigation workflows, and repeatable SOC use cases.
 
 ---
 
@@ -41,25 +84,29 @@ My focus is on securing hybrid environments (on-premises & cloud), strengthening
 
 Building strong expertise in:
 
-- Identity & Access Security  
-- Cloud Security Architecture  
-- Blue Team & Threat Detection  
-- Security Engineering  
+- Security Operations
+- Detection Engineering
+- Identity & Access Security
+- Microsoft Security Technologies
+- Threat Hunting
+- Incident Response
+- Cloud & Hybrid Security Engineering
 
 ---
 
 ## 🎓 Continuous Learning
 
-- Microsoft Learn (Security, Entra ID, Sentinel, Identity Protection)  
-- TryHackMe (SOC Level 1, Windows Privilege Escalation, Blue Team paths)  
-- Personal Hybrid Security Lab  
+- Microsoft Learn – Sentinel, Defender XDR, Entra ID & Security
+- TryHackMe – SOC, Active Directory Monitoring & Blue Team paths
+- Personal Hybrid Security Lab
+- Practical KQL and Detection Engineering projects
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-theunert-14178720a  
-- Email: Mohamed.Theunert@outlook.de  
+- LinkedIn: https://www.linkedin.com/in/mohamed-ibrahim-theunert-14178720a
+- Email: Mohamed.Theunert@outlook.de
 
 ---
 
