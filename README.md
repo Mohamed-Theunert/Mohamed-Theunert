@@ -6,14 +6,18 @@ Microsoft-focused system administrator with a strong focus on hybrid identity, s
 
 ## Core Areas
 
-- Active Directory, Group Policy, Kerberos, NTLM
-- Microsoft 365, Entra ID, Conditional Access
-- Microsoft Sentinel, KQL, SIEM
-- Microsoft Defender XDR, Defender for Endpoint, Defender for Identity
+- Active Directory, Group Policy, Kerberos & NTLM
+- Identity & Access Management
+- Microsoft 365 & Entra ID
+- SIEM & SOAR
+- Security Monitoring & Log Management
+- Endpoint & Identity Security
+- Network Security
 - PKI / AD CS
 - PowerShell Automation
-- Detection Engineering and Threat Hunting
-- Hybrid Infrastructure and Security Operations
+- Detection Engineering & Threat Hunting
+- Incident Investigation & Security Operations
+- Hybrid Infrastructure & Virtualization
 
 ## Current Focus
 
