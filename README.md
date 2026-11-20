@@ -6,7 +6,7 @@ Focused on security operations, identity security, threat detection, and hybrid 
 
 ## Core Areas
 
-- Active Directory, Group Policy, Kerberos & NTLM
+- Active Directory, Group Policy
 - Identity & Access Management
 - Microsoft 365 & Entra ID
 - SIEM & SOAR
